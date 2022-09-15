@@ -4,7 +4,7 @@
 # Hi, my name is Luciana de Sá!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 ### Welcome to my profile. 😊  I am a Web Developer from Igarassu-PE. 
-<img src="https://64.media.tumblr.com/08a994ec5e0435795fc93008151c7f77/ca31b06968b54bcf-d9/s540x810/d7203eb997e02105ecc8423a4fa477a63c4c1c81.gifv">
+
 
 ### I'm a former Consumer Sciences at <a href="http://www.ufrpe.br/">_Universidade Federal Rural de Pernambuco_</a> and worked along the years with customer service and in the fashion industry with clothingt. Now I'm a **Back End Developer** student at <a href="https://reprograma.com.br/todas-em-tech.html">_Reprograma_</a>. Always having a deep interest in music, series,dogs and movies, the tech field remained as a passion that I just started to explore.  
 ## Technologies that I am learning 💻 
